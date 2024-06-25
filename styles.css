@@ -89,7 +89,7 @@
 
 .projects>div, .news>div {
     background-color: aliceblue;
-    height: 200px;
+    /* height: 200px; */
     border: none;
     border-radius: 12px;
     box-shadow: 3px 3px 10px 3px #bdbdbd;
